@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malmi Bandara</h1>
-<h3 align="center">I am passionate and dedicated about full-stack development | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
+<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeshanib&label=Profile%20views&color=0e75b6&style=flat" alt="yeshanib" /> </p>
 
@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malmi bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malmi bandara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/malmi-bandara-681239322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/malmi-bandara-681239322" height="30" width="40" /></a>
+<a href="https://fb.com/malmi bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malmi bandara" height="30" width="40" /></a>
 <a href="https://instagram.com/yesh_mi_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yesh_mi_b" height="30" width="40" /></a>
 </p>
 
