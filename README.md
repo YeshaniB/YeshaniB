@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malmi Bandara</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
+<h3 align="center">I am Passionate and dedicated in Full-Stack Developement | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeshanib&label=Profile%20views&color=0e75b6&style=flat" alt="yeshanib" /> </p>
 
