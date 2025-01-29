@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ASPNET_Core and Angula**
 
 - 📫 How to reach me **smymbandara2002@gmail.com**
 
