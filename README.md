@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Malmi Bandara</h1>
 <h3 align="center">I am Passionate and dedicated in Full-Stack Developement | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeshanib&label=Profile%20views&color=0e75b6&style=flat" alt="yeshanib" /> </p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2azRpamdia3UzdGJnZXlmcnlxd3kwYXdrZ2NkNmhjaXMwNnAybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xTLOAuqmVWh69fBYjo/giphy.gif" width="100"/>
-</p>
 ---
+
+<div style="position: absolute; top: 0; right: 0; width: 40%;">
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2azRpamdia3UzdGJnZXlmcnlxd3kwYXdrZ2NkNmhjaXMwNnAybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xTLOAuqmVWh69fBYjo/giphy.gif" alt="Coding Gif" width="40%"/>
+</div>
+
 
 - 🌱 I’m currently learning **ASPNET_Core and Angular**
 
 - 📫 How to reach me **smymbandara2002@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
