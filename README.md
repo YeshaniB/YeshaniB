@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeshanib&label=Profile%20views&color=0e75b6&style=flat" alt="yeshanib" /> </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2azRpamdia3UzdGJnZXlmcnlxd3kwYXdrZ2NkNmhjaXMwNnAybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xTLOAuqmVWh69fBYjo/giphy.gif" width="100"/>
 </p>
 ---
 
