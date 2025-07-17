@@ -3,7 +3,7 @@
 
 ---
 
-<div style="position: absolute; top: 0; right: 0; width: 40%;">
+<div style="position: absolute; top: 0; right: 0; left: 90%; width: 40%;">
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhYnpkcmY4ZmU1Z3ljamF4aGpyYXI1Y3hwNHZ5Z3NjNXg1djJodCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding Gif" width="40%"/>
 </div>
 
