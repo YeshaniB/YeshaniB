@@ -30,6 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshanib&show_icons=true&locale=en" alt="yeshanib" /></p>
 
+## 🐍 Git commit -m 'Another day, Another Square'
 <p align="center">
 	<picture>
 		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
