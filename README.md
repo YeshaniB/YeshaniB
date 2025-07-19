@@ -1,3 +1,4 @@
+
 <div align="center" width="50">
    <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2azRpamdia3UzdGJnZXlmcnlxd3kwYXdrZ2NkNmhjaXMwNnAybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xTLOAuqmVWh69fBYjo/giphy.gif" alt="Coding Gif" height=100px width = 100px/>
 </div>
@@ -6,15 +7,19 @@
 <h3 align="center">I am Passionate and dedicated in Full-Stack Developement | Undergraduate at SLIIT | BSc (Hons) in Information Technology specializing in Software Engineering</h3>
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=D580FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Malmi+Bandara!;Full-Stack+Developer+%7C+SLIIT+Undergraduate;Passionate+about+Software+Engineering+%F0%9F%92%A1;Let's+Code+Something+Amazing+%F0%9F%8E%A8" alt="Animated banner" />
+</p>
 <div style="position: absolute; top: 0; right: 0; left: 90%; width: 40%;">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhYnpkcmY4ZmU1Z3ljamF4aGpyYXI1Y3hwNHZ5Z3NjNXg1djJodCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding Gif" width="50%"/>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJhYnpkcmY4ZmU1Z3ljamF4aGpyYXI1Y3hwNHZ5Z3NjNXg1djJodCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding Gif" width="35%"/>
 </div>
 
+🌱 **Currently Learning:**  
+![ASPNET Core](https://img.shields.io/badge/-ASPNET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-- 🌱 I’m currently learning **ASPNET_Core and Angular**
-
-- 📫 How to reach me **smymbandara2002@gmail.com**
+📫 **How to reach me:**  
+[![Gmail Badge](https://img.shields.io/badge/-smymbandara2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smymbandara2002@gmail.com)](mailto:smymbandara2002@gmail.com)
 
 
 
@@ -24,12 +29,28 @@
 <a href="https://fb.com/malmi bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malmi bandara" height="30" width="40" /></a>
 <a href="https://instagram.com/yesh_mi_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yesh_mi_b" height="30" width="40" /></a>
 </p>
-<div margin-top: 0%>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshanib&show_icons=true&locale=en" alt="yeshanib" /></p>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YESHANI-B/GitHub-Animated-Dividers/main/animated-divider.gif" alt="divider" width="600"/>
+</p>
+
+<h3 align="center">🚀 Languages & Tools 🚀</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,cpp,c,csharp,css,dotnet,nodejs,spring,express,figma,git,github,html,java,javascript,mongodb,mysql,nodejs,php,postman,swagger,python,react," />
+</p>
+
+<!-- Fascinating Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YESHANI-B/GitHub-Animated-Dividers/main/animated-divider.gif" alt="divider" width="600"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YeshaniB&show_icons=true&theme=radical&hide_border=true" alt="Malmi's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeshaniB&theme=radical&hide_border=true" alt="Malmi's GitHub Streak">
+</p>
 
 ## 🐍 Git commit -m 'Another day, Another Square'
 <p align="center">
@@ -38,4 +59,9 @@
 		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
+</p>
+
+<!-- End: Thank You Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D580FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+create+magic+%F0%9F%A4%AA%F0%9F%8C%9F" alt="Thanks for visiting!" />
 </p>
